@@ -1,2 +1,4 @@
 # 1st-rep
-Primeiro Projeto Github - Desafio Dio
+## Repositório criado para o Desáfio de Projeto da DIO
+
+
